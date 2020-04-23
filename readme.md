@@ -3,9 +3,9 @@
 
 
 ## Table of Contents
-[1.0 Directory Structure](#1.0-Directory-Structure)
-[2.0 Project Outline / Problem Statement](#2.0-Project-Outline-/-Problem-Statement)
-[3.0 Description of Data](#3.0-Description-of-Data)
+[1.0 Directory Structure](#1.0-Directory-Structure)<br>
+[2.0 Project Outline / Problem Statement](#2.0-Project-Outline-/-Problem-Statement)<br>
+[3.0 Description of Data](#3.0-Description-of-Data)<br>
 >- [3.1 Size](#3.1-Size)<br>
 - [3.2 Source](#3.2-Source)<br>
 - [3.3 Data Dictionary](#3.3-Data-Dictionary)
@@ -14,20 +14,17 @@
 [5.0 Conclusion](#5.0-Conclusion)<br>
 >- [5.1 Next Steps](#5.1-Next-Steps)
 
-[6.0 Outside Sources](#6.0-Outside-Sources)<br>
 
 ## 1.0 Directory Structure
 
 ```
 .
-├── project_1
+├── IBM Sales Analysis
     ├── code
-        ├── starter-code.ipynb
+        ├── EDA.ipynb
     ├── data
-        ├── act_2018.csv
-        ├── act_2017.csv
-        ├── sat_2018.csv
-        ├── sat_2017.csv
+        ├── sales_data.csv
+        ├── cleaned_data.csv
     ├── plots
         ├── ACT_plot.jpg
         ├── SAT_plot.jpg
@@ -77,7 +74,30 @@ For this project, you'll have four provided datasets:
 ---
 ## 4.0 Data Visualization
 
-<img src="./data/graph.png">
+
+<img src="./pictures/Route to Market(RTM) by Deal size Category - (Conversion Rate).jpg">
+<br>
+<img src='./pictures/RTM & Supplies Group by Deal size Category - (Conversion Rate).jpg' >
+
+<br>
+<img src='./pictures/CSR & RTM by Deal size Category - (Conversion Rate).jpg' >
+
+<br>
+<img src= './pictures/Conversion Rates by RTM Over Time.jpg'>
+
+
+<br>
+<img src='./pictures/Conversion Rates by RTM & Region Over Time.jpg' >
+
+
+<br>
+<img src='./pictures/Conversion Rates by RTM & Region - (Bar Chart).png' >
+
+<br>
+<img src='./pictures/Total Opporuties by RTM & Region - (Bar Chart).png' >
+
+<br>
+<img src= './pictures/Total Wins by RTM & Region - (Bar Chart).png'>
 
 ---
 ## 5.0 Conclusion
@@ -96,13 +116,8 @@ There is a lot of room for error, the average recorded scores could
  be very far from the true population mean.
 
 
-
+---
 ### 5.1 Next Steps
 Next steps would be to collect more data to paint a better picture of how SAT/ACT predict college success
 
-
 ---
-## 6.0 Outside Sources
-
-- Link 1
-<p href='https://www.forbes.com/sites/prestoncooper2/2018/06/11/what-predicts-college-completion-high-school-gpa-beats-sat-score/#2957732e4b09'>Preston Cooper</p>
