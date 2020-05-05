@@ -76,12 +76,14 @@ For this project, you'll have four provided datasets:
 
 
 <img src="./pictures/Route to Market(RTM) by Deal size Category - (Conversion Rate).jpg">
+In the above
 <br>
+
 <img src='./pictures/RTM & Supplies Group by Deal size Category - (Conversion Rate).jpg' >
 
 <br>
 <img src='./pictures/CSR & RTM by Deal size Category - (Conversion Rate).jpg' >
-
+sales channel
 <br>
 <img src= './pictures/Conversion Rates by RTM Over Time.jpg'>
 
