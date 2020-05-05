@@ -106,20 +106,16 @@ sales channel
 #### Conclusion
 
 
-SAT/ACT data is heavily skewed (Hard to Analyze accurately)
+TBD
 
 
 
-Increasing ACT/SAT participation will providee better reading
 
-
-
-There is a lot of room for error, the average recorded scores could
- be very far from the true population mean.
 
 
 ---
 ### 5.1 Next Steps
 Next steps would be to collect more data to paint a better picture of how SAT/ACT predict college success
 
----
+
+TBD
